@@ -5,7 +5,7 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
 ### Links
 
 - Solution URL: [ solution URL ](https://your-solution-url.com)
-- Live Site URL: [ live site URL ](https://your-live-site-url.com)
+- Live Site URL: [ live site URL ](https://hummingcoder.github.io/Clipboard-landing-page/)
 
 ### Screenshot
 
