@@ -266,6 +266,9 @@ footer ul a {
   justify-content: center;
   gap: 1.8em;
 }
+footer ul a:hover {
+  text-decoration: underline;
+}
 
 /* ------------------------------------------------------------------------------- */
 @media (width > 881px) {
